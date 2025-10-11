@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F855A&center=true&vCenter=true&width=500&lines=MERN+Stack+Web+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Strong+Communicator+%26+Team+Leader;Clean+UI+%26+UX+Focused+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F855A&center=true&vCenter=true&width=500&lines=Back+End+Developer;Node.js+%7C+Express.js+%7C+MySQL+%7C+MongoDB;Strong+Communicator+%26+Team+Leader;Clean+Code+%26+UX+Focused+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,15 +15,15 @@
 
 ## 💫 About Me
 
-I'm a passionate MERN Stack Developer from Bangladesh 🇧🇩, with a background in Political Science and a deep interest in web technology. I'm currently learning full-stack development through Programming Hero and building real-world projects that solve meaningful problems.
+I'm a passionate Back End Developer from Bangladesh 🇧🇩, with a background in Political Science and a deep interest in web technology. I'm currently learning full-stack development through Programming Hero and building real-world projects that solve meaningful problems.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+```JavaScript
 const reaz = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "HTML", "CSS"],
-    askMeAbout: ["full-stack development", "React", "Node.js", "MongoDB", "Firebase"],
+    code: ["JavaScript", "Node.js", "Express.js"],
+    askMeAbout: ["full-stack (Backend Focus) development", "React", "Node.js", "Express.js", "MongoDB", "MySQL"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
@@ -31,15 +31,15 @@ const reaz = {
             uiLibraries: ["Framer Motion", "MUI"],
         },
         backEnd: {
-            js: ["Node.js", "Express.js"],
+            js: ["Node.js", "Express.js", "MySQL", "MongoDB", "Redis"],
         },
         auth: ["Firebase Auth", "JWT"],
-        databases: ["MongoDB", "Firebase"],
+        databases: ["MongoDB", "MySQL"],
         devTools: ["Git", "GitHub", "VS Code", "Postman", "Netlify", "Vercel", "Render"],
         misc: ["REST APIs", "Context API", "React Router", "React Hook Form", "Redux"],
     },
     currentLearning: ["Advanced React Patterns", "JWT with Firebase", "Web Security"],
-    projects: ["Marathon Zone", "GreenCircle"],
+    projects: ["Haven Keys", "Marathon Zone", "GreenCircle"],
     currentFocus: "Building clean, scalable MERN apps and growing as a full-stack developer",
     funFact: "I study political science and dream of combining tech with journalism!"
 };
