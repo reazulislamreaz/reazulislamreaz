@@ -184,6 +184,7 @@ const reaz = {
   <img src="https://img.shields.io/badge/TypeScript-2d333b?style=flat-square&logo=typescript&logoColor=3178C6" />
 </p>
 
+<!-- Frontend -->
 <p>
   <img src="https://img.shields.io/badge/React-2d333b?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-2d333b?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -191,17 +192,26 @@ const reaz = {
   <img src="https://img.shields.io/badge/Framer_Motion-2d333b?style=flat-square&logo=framer&logoColor=white" />
 </p>
 
+<!-- Backend -->
 <p>
   <img src="https://img.shields.io/badge/Node.js-2d333b?style=flat-square&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/Express.js-2d333b?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-2d333b?style=flat-square&logo=nestjs&logoColor=E0234E" />
 </p>
 
+<!-- Database -->
 <p>
   <img src="https://img.shields.io/badge/MongoDB-2d333b?style=flat-square&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/PostgreSQL-2d333b?style=flat-square&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/Prisma-2d333b?style=flat-square&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-2d333b?style=flat-square&logo=redis&logoColor=DC382D" />
+</p>
+
+<!-- Realtime & Auth -->
+<p>
+  <img src="https://img.shields.io/badge/Socket.io-2d333b?style=flat-square&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-2d333b?style=flat-square&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-2d333b?style=flat-square&logo=firebase&logoColor=FFCA28" />
 </p>
 
 <h2 align="center">📊 My GitHub Statistics</h2>
