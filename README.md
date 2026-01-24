@@ -177,9 +177,8 @@ const reaz = {
 
 ### ⚙️ Some Tools and Tech I Use
 
-<h3 align="left">⚙️ Some Tools and Tech I Use</h3>
 
-<p align="left">
+<p align="center">
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
@@ -189,7 +188,6 @@ const reaz = {
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
 
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
@@ -204,7 +202,6 @@ const reaz = {
 
   <!-- Realtime -->
   <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/webrtc/webrtc-icon.svg" width="40" />
 
   <!-- Auth -->
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
