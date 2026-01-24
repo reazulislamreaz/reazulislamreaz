@@ -177,53 +177,44 @@ const reaz = {
 
 ### ⚙️ Some Tools and Tech I Use
 
-<p align="center">
-  <!-- Core Web -->
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" /></code>
+<!-- Languages -->
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
+</p>
 
-  <!-- Frontend -->
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" /></code>
-  <code><img height="30" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="DaisyUI" /></code>
-  <code><img height="30" src="https://avatars.githubusercontent.com/u/96314444?s=200&v=4" alt="Framer Motion" /></code>
+<!-- Frontend -->
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />
+  <img height="30" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" />
+  <img height="30" src="https://avatars.githubusercontent.com/u/96314444?s=200&v=4" />
+</p>
 
-  <!-- Backend -->
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" /></code>
-  <code><img height="30" src="https://nestjs.com/img/logo-small.svg" alt="NestJS" /></code>
+<!-- Backend -->
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />
+  <img height="30" src="https://nestjs.com/img/logo-small.svg" />
+</p>
 
-  <!-- Database & ORM -->
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" /></code>
-  <code><img height="30" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis" /></code>
+<!-- Database -->
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
+  <img height="30" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" />
+</p>
 
-  <!-- Auth & Realtime -->
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/socket-io/socket-io.png" alt="Socket.io" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/webrtc/webrtc.png" alt="WebRTC" /></code>
-
-  <!-- Email & File Handling -->
-  <code><img height="30" src="https://avatars.githubusercontent.com/u/13579055?s=200&v=4" alt="Nodemailer" /></code>
-  <code><img height="30" src="https://avatars.githubusercontent.com/u/253814?s=200&v=4" alt="Cloudinary" /></code>
-
-  <!-- DevOps & Cloud -->
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" /></code>
-  <code><img height="30" src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" alt="DigitalOcean" /></code>
-  <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" /></code>
-  <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify" /></code>
-
-  <!-- Tools -->
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" alt="Postman" /></code>
+<!-- DevOps & Tools -->
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
+  <img height="30" src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" />
+  <img height="30" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" />
 </p>
 
 
