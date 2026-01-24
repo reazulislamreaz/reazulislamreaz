@@ -21,33 +21,92 @@ I'm a passionate Back End Developer from Bangladesh 🇧🇩, with a background 
 
 ```JavaScript
 const reaz = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "Node.js", "Express.js"],
-    askMeAbout: ["full-stack (Backend Focus) development", "React", "Node.js", "Express.js", "MongoDB", "MySQL"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "DaisyUI", "Bootstrap"],
-            uiLibraries: ["Framer Motion", "MUI"],
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js", "MySQL", "MongoDB", "Redis"],
-        },
-        auth: ["Firebase Auth", "JWT"],
-        databases: ["MongoDB", "MySQL"],
-        devTools: ["Git", "GitHub", "VS Code", "Postman", "Netlify", "Vercel", "Render"],
-        misc: ["REST APIs", "Context API", "React Router", "React Hook Form", "Redux"],
+  pronouns: "He/Him",
+  code: ["JavaScript", "TypeScript"],
+  askMeAbout: [
+    "Backend-focused full-stack development",
+    "Realtime systems & event-driven architecture",
+    "MERN & Modern Backend Architecture",
+    "REST APIs & System Design",
+    "Authentication, Authorization & Security",
+    "Email, file handling & AI-powered workflows"
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      css: ["Tailwind CSS", "DaisyUI", "Bootstrap"],
+      uiLibraries: ["Framer Motion", "Ant Design (AntD)", "MUI"],
+      stateManagement: ["Redux", "Context API"],
+      forms: ["React Hook Form"],
+      routing: ["React Router"],
+      realtime: ["Socket.io", "WebRTC"],
     },
-    currentLearning: ["Advanced React Patterns", "JWT with Firebase", "Web Security"],
-    projects: ["Haven Keys", "Marathon Zone", "GreenCircle"],
-    currentFocus: "Building clean, scalable MERN apps and growing as a full-stack developer",
-    funFact: "I study political science and dream of combining tech with journalism!"
+    backEnd: {
+      js: ["Node.js", "Express.js", "NestJS"],
+      ormOdm: ["Prisma", "Mongoose"],
+      databases: ["MongoDB", "PostgreSQL", "MySQL"],
+      cache: ["Redis"],
+      auth: ["JWT", "Firebase Authentication"],
+      api: ["RESTful APIs"],
+      email: ["Nodemailer", "SMTP", "IMAP"],
+      fileHandling: ["Multer", "Cloudinary"],
+      realtime: ["Socket.io", "WebRTC"],
+    },
+    databases: {
+      noSQL: ["MongoDB (Mongoose)"],
+      sql: ["PostgreSQL", "MySQL"],
+    },
+    cloudAndDevOps: {
+      cloudProviders: ["AWS", "DigitalOcean"],
+      containerization: ["Docker"],
+      ciCd: ["CI/CD Pipelines (GitHub Actions)"],
+      deployment: ["Vercel", "Netlify", "Render"],
+    },
+    devTools: [
+      "Git",
+      "GitHub",
+      "Postman",
+      "VS Code",
+      "Linux"
+    ],
+    misc: [
+      "Realtime Communication & Presence Systems",
+      "Event-driven Architecture",
+      "RBAC & Permission Systems",
+      "Email Queue & Background Jobs",
+      "Secure File Upload & Media Storage",
+      "Pagination, Filtering & Search",
+      "Performance & Query Optimization",
+    ],
+  },
+  aiIntegration: [
+    "Frontline AI integration in production systems",
+    "AI-powered email drafting & workflow automation",
+    "Prompt control, validation & hallucination management"
+  ],
+  currentLearning: [
+    "Advanced NestJS Patterns",
+    "Scalable Realtime Systems",
+    "Cloud Infrastructure & DevOps",
+    "Secure, observable CI/CD pipelines"
+  ],
+  projects: [
+    "Twvinfast (AI Email Assistant SaaS)",
+    "Frontline (Advanced Personal Portfolio with dashboard)"
+    "Green Circle",
+    "Marathon Zone",
+    "Event Hub"
+  ],
+  currentFocus:
+    "Building scalable, secure, real-time-enabled cloud-native applications with strong backend systems and AI integration",
+  funFact:
+    "I study political science and aim to merge technology, AI for meaningful real-world impact!"
 };
 ```
 
 🎯 **What I do:**
 - Craft clean, scalable full-stack web applications
-- Learn and work with modern web tools like JavaScript, TypeScript, React, Next.js Node.js, and MongoDB
+- Learn and work with modern web tools like JavaScript, TypeScript, React, Next.js, Node.js, and MongoDB
 - Continuously improve my soft skills and communication
 - Build portfolio projects that demonstrate both design and development skills
 
