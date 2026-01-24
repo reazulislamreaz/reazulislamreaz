@@ -183,8 +183,9 @@ const reaz = {
   <img src="https://github-profile-trophy.vercel.app/?username=reazulislam1487&theme=gruvbox&no-frame=true&no-bg=true&title=Commit,Issues,Stars,PullRequest,Followers,Repositories&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
 </p> -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reazulislam1487&theme=darkhub&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=reazulislam1487&theme=gruvbox" />
 </p>
+
 
 
 ---
