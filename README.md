@@ -177,44 +177,38 @@ const reaz = {
 
 ### ⚙️ Some Tools and Tech I Use
 
-<p align="center">
-  <!-- Languages -->
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
+<p>
+  <img src="https://img.shields.io/badge/HTML5-555555?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-555555?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=3178C6" />
 </p>
 
-<p align="center">
-  <!-- Frontend -->
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />
-  <img height="32" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" />
-  <img height="32" src="https://avatars.githubusercontent.com/u/96314444?s=200&v=4" />
+<p>
+  <img src="https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-555555?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-555555?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Framer_Motion-555555?style=flat-square&logo=framer&logoColor=white" />
 </p>
 
-<p align="center">
-  <!-- Backend -->
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />
-  <img height="32" src="https://nestjs.com/img/logo-small.svg" />
+<p>
+  <img src="https://img.shields.io/badge/Node.js-555555?style=flat-square&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-555555?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-555555?style=flat-square&logo=nestjs&logoColor=E0234E" />
 </p>
 
-<p align="center">
-  <!-- Database -->
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
-  <img height="32" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" />
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" />
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-555555?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/PostgreSQL-555555?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Prisma-555555?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-555555?style=flat-square&logo=redis&logoColor=DC382D" />
 </p>
 
-<p align="center">
-  <!-- DevOps -->
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
-  <img height="32" src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" />
-  <img height="32" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" />
+<p>
+  <img src="https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/AWS-555555?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/DigitalOcean-555555?style=flat-square&logo=digitalocean&logoColor=0080FF" />
+  <img src="https://img.shields.io/badge/Vercel-555555?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
 
