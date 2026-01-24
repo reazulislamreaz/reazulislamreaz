@@ -178,39 +178,31 @@ const reaz = {
 ### ⚙️ Some Tools and Tech I Use
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-555555?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-555555?style=flat-square&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/HTML5-2d333b?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-2d333b?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-2d333b?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-2d333b?style=flat-square&logo=typescript&logoColor=3178C6" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-555555?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-555555?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Framer_Motion-555555?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-2d333b?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-2d333b?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-2d333b?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Framer_Motion-2d333b?style=flat-square&logo=framer&logoColor=white" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-555555?style=flat-square&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express.js-555555?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-555555?style=flat-square&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/Node.js-2d333b?style=flat-square&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-2d333b?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-2d333b?style=flat-square&logo=nestjs&logoColor=E0234E" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-555555?style=flat-square&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/PostgreSQL-555555?style=flat-square&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/Prisma-555555?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-555555?style=flat-square&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/MongoDB-2d333b?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2d333b?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Prisma-2d333b?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-2d333b?style=flat-square&logo=redis&logoColor=DC382D" />
 </p>
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/AWS-555555?style=flat-square&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/DigitalOcean-555555?style=flat-square&logo=digitalocean&logoColor=0080FF" />
-  <img src="https://img.shields.io/badge/Vercel-555555?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
 
 <h2 align="center">📊 My GitHub Statistics</h2>
 
