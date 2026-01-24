@@ -177,7 +177,7 @@ const reaz = {
 
 ### ⚙️ Some Tools and Tech I Use
 
-<p align="left">
+<p align="center">
   <!-- Languages -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
