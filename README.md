@@ -26,10 +26,10 @@ const reaz = {
   askMeAbout: [
     "Backend-focused full-stack development",
     "Realtime systems & event-driven architecture",
-    "MERN & Modern Backend Architecture",
-    "REST APIs & System Design",
-    "Authentication, Authorization & Security",
-    "Email, file handling & AI-powered workflows"
+    "MERN & modern backend architecture",
+    "REST APIs & system design",
+    "Authentication, authorization & security",
+    "Email systems, file handling & AI-powered workflows"
   ],
   technologies: {
     frontEnd: {
@@ -70,13 +70,13 @@ const reaz = {
       "Linux"
     ],
     misc: [
-      "Realtime Communication & Presence Systems",
-      "Event-driven Architecture",
-      "RBAC & Permission Systems",
-      "Email Queue & Background Jobs",
-      "Secure File Upload & Media Storage",
-      "Pagination, Filtering & Search",
-      "Performance & Query Optimization",
+      "Realtime communication & presence systems",
+      "Event-driven architecture",
+      "RBAC & permission systems",
+      "Email queues & background jobs",
+      "Secure file upload & media storage",
+      "Pagination, filtering & search",
+      "Performance & query optimization",
     ],
   },
   aiIntegration: [
@@ -85,14 +85,14 @@ const reaz = {
     "Prompt control, validation & hallucination management"
   ],
   currentLearning: [
-    "Advanced NestJS Patterns",
-    "Scalable Realtime Systems",
-    "Cloud Infrastructure & DevOps",
-    "Secure, observable CI/CD pipelines"
+    "Advanced NestJS patterns",
+    "Scalable real-time systems",
+    "Cloud infrastructure & DevOps",
+    "Secure and observable CI/CD pipelines"
   ],
   projects: [
     "Twvinfast (AI Email Assistant SaaS)",
-    "Frontline (Advanced Personal Portfolio with dashboard)"
+    "Frontline (Advanced Personal Portfolio with Dashboard)",
     "Green Circle",
     "Marathon Zone",
     "Event Hub"
@@ -100,7 +100,7 @@ const reaz = {
   currentFocus:
     "Building scalable, secure, real-time-enabled cloud-native applications with strong backend systems and AI integration",
   funFact:
-    "I study political science and aim to merge technology, AI for meaningful real-world impact!"
+    "I study political science and aim to merge technology and AI for meaningful real-world impact!",
 };
 ```
 
