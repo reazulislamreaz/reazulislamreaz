@@ -115,6 +115,7 @@ const reaz = {
 - Deploy and manage applications on AWS and DigitalOcean
 - Continuously improve communication, system thinking, and code quality
 
+
 🛠 Currently Working On:
 - 🤖 Replii.ca – An AI-powered email sending mini SaaS, focused on smart replies, automation, backend reliability, and scalable email workflows
 
@@ -125,6 +126,7 @@ const reaz = {
 - 🔥 Marathon Zone – A full-stack marathon management system with authentication, roles, and real-time features
 
 - 🌿 GreenCircle – A subscription-based SaaS platform with secure backend, payments, and scalability focus
+
 
 📚 Learning Now:
 - Backend scalability & clean architecture
