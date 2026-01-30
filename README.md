@@ -127,10 +127,10 @@ const reaz = {
 -🌿 GreenCircle – A subscription-based SaaS platform with secure backend, payments, and scalability focus
 
 📚 Learning Now:
--Backend scalability & clean architecture
--AI-integrated SaaS patterns
--Docker, CI/CD, and production deployments
--Web security, JWT authentication & authorization
+- Backend scalability & clean architecture
+- AI-integrated SaaS patterns
+- Docker, CI/CD, and production deployments
+- Web security, JWT authentication & authorization
 
 ---
 
