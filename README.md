@@ -15,7 +15,9 @@
 
 ## 💫 About Me
 
-I'm a passionate Back End Developer from Bangladesh 🇧🇩, with a background in Political Science and a deep interest in web technology. I'm currently learning full-stack development through Programming Hero and building real-world projects that solve meaningful problems.
+I'm a passionate Full-Stack Backend Focused Developer from Bangladesh 🇧🇩. After completing multiple large-scale projects, I’m now working mainly on the backend for both web and app platforms.
+Learning TypeScript alongside building backend-focused SaaS systems helped me understand scalable architecture, type safety, and production-level problem solving.
+Less theory, more real-world backend engineering.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
