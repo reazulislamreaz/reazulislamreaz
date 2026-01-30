@@ -107,24 +107,24 @@ const reaz = {
 ```
 
 🎯 **What I do:**
--Build clean, scalable backend-focused full-stack applications for web & apps
--Design REST APIs, authentication systems, and production-ready architectures
--Work with modern technologies: JavaScript, TypeScript, React, Next.js, Node.js, MongoDB
--Use Docker for containerization and environment consistency
--Implement CI/CD pipelines for automated testing & deployment
--Deploy and manage applications on AWS and DigitalOcean
--Continuously improve communication, system thinking, and code quality
+- Build clean, scalable backend-focused full-stack applications for web & apps
+- Design REST APIs, authentication systems, and production-ready architectures
+- Work with modern technologies: JavaScript, TypeScript, React, Next.js, Node.js, MongoDB
+- Use Docker for containerization and environment consistency
+- Implement CI/CD pipelines for automated testing & deployment
+- Deploy and manage applications on AWS and DigitalOcean
+- Continuously improve communication, system thinking, and code quality
 
 🛠 Currently Working On:
--🤖 Replii.ca – An AI-powered email sending mini SaaS, focused on smart replies, automation, backend reliability, and scalable email workflows
+- 🤖 Replii.ca – An AI-powered email sending mini SaaS, focused on smart replies, automation, backend reliability, and scalable email workflows
 
--🌐 TrueCrimeConsultants – A personal website for a lawyer, built with a clean, professional layout and backend support for content management and communication
+- 🌐 TrueCrimeConsultants – A personal website for a lawyer, built with a clean, professional layout and backend support for content management and communication
 
--🏡 Haven Keys – A property rental platform with backend-driven listings, role-based access, and management features
+- 🏡 Haven Keys – A property rental platform with backend-driven listings, role-based access, and management features
 
--🔥 Marathon Zone – A full-stack marathon management system with authentication, roles, and real-time features
+- 🔥 Marathon Zone – A full-stack marathon management system with authentication, roles, and real-time features
 
--🌿 GreenCircle – A subscription-based SaaS platform with secure backend, payments, and scalability focus
+- 🌿 GreenCircle – A subscription-based SaaS platform with secure backend, payments, and scalability focus
 
 📚 Learning Now:
 - Backend scalability & clean architecture
