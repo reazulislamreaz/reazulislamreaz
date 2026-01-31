@@ -233,32 +233,10 @@ const reaz = {
 </p>
 
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=reazulislam1487&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=reazulislam1487&theme=dark&hide_border=true"
-    height="165"
-  />
-</p>
-
-<h3 align="center">📚 Most Used Languages</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazulislam1487&layout=compact&theme=dark&hide_border=true"
-  />
-</p>
 
 
-<!-- <h2 align="center">📊 My GitHub Statistics</h2>
+
+<h2 align="center">📊 My GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reazulislam1487&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=prs,issues" width="48%" alt="GitHub Stats" />
@@ -272,10 +250,9 @@ const reaz = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazulislam1487&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
-</p> -->
+</p>
 
 
-<!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=reazulislam1487&theme=gruvbox&no-frame=true&no-bg=true&title=Commit,Issues,Stars,PullRequest,Followers,Repositories&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
