@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F855A&center=true&vCenter=true&width=500&lines=Back+End+Developer;Node.js+%7C+Express.js+%7C+MySQL+%7C+MongoDB;Strong+Communicator+%26+Team+Leader;Clean+Code+%26+Focused+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F855A&center=true&vCenter=true&width=500&lines=Back+End+Developer;Node.js+%7C+Express.js+NestJS+%7C+MySQL+%7C+MongoDB;Strong+Communicator+%26+Team+Leader;Clean+Code+%26+Focused+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -238,9 +238,9 @@ const reaz = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reazulislam1487&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=prs,issues" width="48%" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <a href="https://git.io/streak-stats" target="_blank">
+  <!-- <a href="https://git.io/streak-stats" target="_blank">
     <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=reazulislam1487&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
-  </a>
+  </a> -->
 </p>
 
 <h3 align="center">📚 Most Used Languages</h3>
