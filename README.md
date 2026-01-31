@@ -233,21 +233,46 @@ const reaz = {
 </p>
 
 
-<h2 align="center">📊 My GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=reazulislam1487&show_icons=true&count_private=true&theme=dark&hide_border=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats-salesp07.vercel.app?user=reazulislam1487&theme=dark&hide_border=true"
+    height="165"
+    alt="GitHub Streak"
+  />
+</p>
+
+<h3 align="center">📚 Most Used Languages</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazulislam1487&layout=compact&theme=dark&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
+
+
+<!-- <h2 align="center">📊 My GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reazulislam1487&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=prs,issues" width="48%" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <!-- <a href="https://git.io/streak-stats" target="_blank">
+  <a href="https://git.io/streak-stats" target="_blank">
     <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=reazulislam1487&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
-  </a> -->
+  </a>
 </p>
 
 <h3 align="center">📚 Most Used Languages</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazulislam1487&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
-</p>
+</p> -->
 
 
 <!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
