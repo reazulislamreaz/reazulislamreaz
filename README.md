@@ -237,14 +237,15 @@ const reaz = {
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=reazulislam1487&show_icons=true&count_private=true&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=reazulislam1487&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
     height="165"
-    alt="GitHub Stats"
   />
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-streak-stats-salesp07.vercel.app?user=reazulislam1487&theme=dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=reazulislam1487&theme=dark&hide_border=true"
     height="165"
-    alt="GitHub Streak"
   />
 </p>
 
@@ -252,8 +253,7 @@ const reaz = {
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazulislam1487&layout=compact&theme=dark&hide_border=true&langs_count=8"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazulislam1487&layout=compact&theme=dark&hide_border=true"
   />
 </p>
 
