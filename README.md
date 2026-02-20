@@ -19,7 +19,7 @@ I'm a passionate Full-Stack Backend Focused Developer from Bangladesh 🇧🇩. 
 Learning TypeScript alongside building backend-focused SaaS systems helped me understand scalable architecture, type safety, and production-level problem solving.
 Less theory, more real-world backend engineering.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me..... 
 
 ```JavaScript
 const reaz = {
