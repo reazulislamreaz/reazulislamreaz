@@ -107,16 +107,25 @@ const reaz = {
 ```
 
 🎯 **What I do:**
+
 - Build clean, scalable backend-focused full-stack applications for web & apps
 - Design REST APIs, authentication systems, and production-ready architectures
-- Work with modern technologies: JavaScript, TypeScript, React, Next.js, Node.js, MongoDB
+- Implement role-based access control systems and secure user workflows
+- Develop real-time communication features using WebRTC and Socket-based systems
+- Build QR-based verification systems for check-ins, lead collection, and event interactions
+- Work with modern technologies: JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB
 - Use Docker for containerization and environment consistency
 - Implement CI/CD pipelines for automated testing & deployment
 - Deploy and manage applications on AWS and DigitalOcean
+- Design scalable systems with modular backend architecture and maintainable code practices
 - Continuously improve communication, system thinking, and code quality
 
 
 🛠 Currently Working On:
+
+- 🎟 Confaero – A scalable event and conference management SaaS platform featuring 9 role-based access levels (Super Admin, Organizer, Speaker, Volunteer, Exhibitor, Attendee, Abstract Reviewer, Sponsor, Staff).
+  The platform includes QR-based attendee check-ins, exhibitor lead collection, real-time communication, and WebRTC-powered video meeting capabilities for virtual sessions and event collaboration, built with a modular and scalable          backend architecture.
+
 - 🤖 Replii.ca – An AI-powered email sending mini SaaS, focused on smart replies, automation, backend reliability, and scalable email workflows
 
 - 🌐 TrueCrimeConsultants – A personal website for a lawyer, built with a clean, professional layout and backend support for content management and communication
@@ -133,13 +142,14 @@ const reaz = {
 - AI-integrated SaaS patterns
 - Docker, CI/CD, and production deployments
 - Web security, JWT authentication & authorization
-
+- Real-time systems using WebRTC and Socket-based communication
+- QR-based verification systems for check-ins, attendee tracking & lead collection
 ---
 
 
 ## 📫 Let’s connect:
 
-- Email: reazulislam1487@gmail.com
+- Email: reazul.dev@gmail.com
 - WhatsApp: +8801770807782
 
 ## 🌐 Portfolio:
@@ -147,7 +157,7 @@ const reaz = {
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/thinkerboyreaz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reazulislam1487/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/engineer.reazul.islam.reaz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reazulislamreaz/) 
 
 ### 🖥️ My DevSetup
 
@@ -239,17 +249,17 @@ const reaz = {
 <h2 align="center">📊 My GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reazulislam1487&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=prs,issues" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reazulislamreaz&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=prs,issues" width="48%" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=reazulislam1487&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=reazulislamreaz&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
   </a>
 </p>
 
 <h3 align="center">📚 Most Used Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazulislam1487&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazulislamreaz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
 </p>
 
 
